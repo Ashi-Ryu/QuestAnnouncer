@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: QuestAnnouncer by Ashi
+## Notes: Announces quest objective progress or completion to party chat.
+## Author: Ashi-Ryu
+## Version: v2.2.3
+## SavedVariablesPerCharacter: QuestAnnouncerDB
+
+QuestAnnouncer.lua
